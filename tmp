@@ -1,0 +1,2929 @@
+Test 0 Start
+Test Data: 5.100000 3.500000 1.400000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.324113
+avg:3.226923 sd:0.932604
+0.409822
+avg:1.415385 sd:0.494756
+0.805951
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.152985
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.264573
+avg:2.657692 sd:0.771730
+0.284947
+avg:4.050000 sd:1.094435
+0.019436
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000113
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.177654
+avg:2.896154 sd:0.844062
+0.365931
+avg:5.326923 sd:1.371320
+0.004821
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000005
+
+Iris-setosa == Iris-setosa
+Test 0 End
+
+Test 1 Start
+Test Data: 4.700000 3.200000 1.300000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.333737
+avg:3.226923 sd:0.932604
+0.427594
+avg:1.415385 sd:0.494756
+0.784708
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.160027
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.226511
+avg:2.657692 sd:0.771730
+0.403845
+avg:4.050000 sd:1.094435
+0.015514
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000110
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.140409
+avg:2.896154 sd:0.844062
+0.442993
+avg:5.326923 sd:1.371320
+0.003902
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000004
+
+Iris-setosa == Iris-setosa
+Test 1 End
+
+Test 2 Start
+Test Data: 5.000000 3.600000 1.400000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.329961
+avg:3.226923 sd:0.932604
+0.394878
+avg:1.415385 sd:0.494756
+0.805951
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.150066
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.256471
+avg:2.657692 sd:0.771730
+0.245299
+avg:4.050000 sd:1.094435
+0.019436
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000094
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.168484
+avg:2.896154 sd:0.844062
+0.333842
+avg:5.326923 sd:1.371320
+0.004821
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000004
+
+Iris-setosa == Iris-setosa
+Test 2 End
+
+Test 3 Start
+Test Data: 4.600000 3.400000 1.400000 0.300000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.330318
+avg:3.226923 sd:0.932604
+0.420469
+avg:1.415385 sd:0.494756
+0.805951
+avg:0.253846 sd:0.273820
+1.436402
+p = 0.160787
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.215097
+avg:2.657692 sd:0.771730
+0.325491
+avg:4.050000 sd:1.094435
+0.019436
+avg:1.250000 sd:0.482083
+0.118723
+p = 0.000162
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.131110
+avg:2.896154 sd:0.844062
+0.395513
+avg:5.326923 sd:1.371320
+0.004821
+avg:1.900000 sd:0.628184
+0.024781
+p = 0.000006
+
+Iris-setosa == Iris-setosa
+Test 3 End
+
+Test 4 Start
+Test Data: 4.400000 2.900000 1.400000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.316820
+avg:3.226923 sd:0.932604
+0.402280
+avg:1.415385 sd:0.494756
+0.805951
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.146791
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.190989
+avg:2.657692 sd:0.771730
+0.492082
+avg:4.050000 sd:1.094435
+0.019436
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000141
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.112996
+avg:2.896154 sd:0.844062
+0.472641
+avg:5.326923 sd:1.371320
+0.004821
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000004
+
+Iris-setosa == Iris-setosa
+Test 4 End
+
+Test 5 Start
+Test Data: 5.400000 3.700000 1.500000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.294473
+avg:3.226923 sd:0.932604
+0.376129
+avg:1.415385 sd:0.494756
+0.794634
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.125776
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.281610
+avg:2.657692 sd:0.771730
+0.207651
+avg:4.050000 sd:1.094435
+0.024148
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000109
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.203474
+avg:2.896154 sd:0.844062
+0.300322
+avg:5.326923 sd:1.371320
+0.005924
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000006
+
+Iris-setosa == Iris-setosa
+Test 5 End
+
+Test 6 Start
+Test Data: 4.800000 3.000000 1.400000 0.100000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.334823
+avg:3.226923 sd:0.932604
+0.415295
+avg:1.415385 sd:0.494756
+0.805951
+avg:0.253846 sd:0.273820
+1.244219
+p = 0.139437
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.237306
+avg:2.657692 sd:0.771730
+0.468514
+avg:4.050000 sd:1.094435
+0.019436
+avg:1.250000 sd:0.482083
+0.048096
+p = 0.000104
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.149785
+avg:2.896154 sd:0.844062
+0.469082
+avg:5.326923 sd:1.371320
+0.004821
+avg:1.900000 sd:0.628184
+0.010470
+p = 0.000004
+
+Iris-setosa == Iris-setosa
+Test 6 End
+
+Test 7 Start
+Test Data: 5.800000 4.000000 1.200000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.234791
+avg:3.226923 sd:0.932604
+0.303389
+avg:1.415385 sd:0.494756
+0.733442
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.074661
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.284752
+avg:2.657692 sd:0.771730
+0.113894
+avg:4.050000 sd:1.094435
+0.012280
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000031
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.230933
+avg:2.896154 sd:0.844062
+0.200980
+avg:5.326923 sd:1.371320
+0.003141
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000002
+
+Iris-setosa == Iris-setosa
+Test 7 End
+
+Test 8 Start
+Test Data: 5.400000 3.900000 1.300000 0.400000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.294473
+avg:3.226923 sd:0.932604
+0.329690
+avg:1.415385 sd:0.494756
+0.784708
+avg:0.253846 sd:0.273820
+1.263515
+p = 0.096259
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.281610
+avg:2.657692 sd:0.771730
+0.141494
+avg:4.050000 sd:1.094435
+0.015514
+avg:1.250000 sd:0.482083
+0.174871
+p = 0.000108
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.203474
+avg:2.896154 sd:0.844062
+0.233020
+avg:5.326923 sd:1.371320
+0.003902
+avg:1.900000 sd:0.628184
+0.036703
+p = 0.000007
+
+Iris-setosa == Iris-setosa
+Test 8 End
+
+Test 9 Start
+Test Data: 5.700000 3.800000 1.700000 0.300000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.251108
+avg:3.226923 sd:0.932604
+0.354175
+avg:1.415385 sd:0.494756
+0.683374
+avg:0.253846 sd:0.273820
+1.436402
+p = 0.087300
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.286166
+avg:2.657692 sd:0.771730
+0.172855
+avg:4.050000 sd:1.094435
+0.036353
+avg:1.250000 sd:0.482083
+0.118723
+p = 0.000213
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.225046
+avg:2.896154 sd:0.844062
+0.266403
+avg:5.326923 sd:1.371320
+0.008806
+avg:1.900000 sd:0.628184
+0.024781
+p = 0.000013
+
+Iris-setosa == Iris-setosa
+Test 9 End
+
+Test 10 Start
+Test Data: 5.400000 3.400000 1.700000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.294473
+avg:3.226923 sd:0.932604
+0.420469
+avg:1.415385 sd:0.494756
+0.683374
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.120917
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.281610
+avg:2.657692 sd:0.771730
+0.325491
+avg:4.050000 sd:1.094435
+0.036353
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000257
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.203474
+avg:2.896154 sd:0.844062
+0.395513
+avg:5.326923 sd:1.371320
+0.008806
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000012
+
+Iris-setosa == Iris-setosa
+Test 10 End
+
+Test 11 Start
+Test Data: 4.600000 3.600000 1.000000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.330318
+avg:3.226923 sd:0.932604
+0.394878
+avg:1.415385 sd:0.494756
+0.566833
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.105657
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.215097
+avg:2.657692 sd:0.771730
+0.245299
+avg:4.050000 sd:1.094435
+0.007504
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000031
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.131110
+avg:2.896154 sd:0.844062
+0.333842
+avg:5.326923 sd:1.371320
+0.002004
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000001
+
+Iris-setosa == Iris-setosa
+Test 11 End
+
+Test 12 Start
+Test Data: 4.800000 3.400000 1.900000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.334823
+avg:3.226923 sd:0.932604
+0.420469
+avg:1.415385 sd:0.494756
+0.499093
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.100411
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.237306
+avg:2.657692 sd:0.771730
+0.325491
+avg:4.050000 sd:1.094435
+0.052931
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000316
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.149785
+avg:2.896154 sd:0.844062
+0.395513
+avg:5.326923 sd:1.371320
+0.012814
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000012
+
+Iris-setosa == Iris-setosa
+Test 12 End
+
+Test 13 Start
+Test Data: 5.000000 3.400000 1.600000 0.400000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.329961
+avg:3.226923 sd:0.932604
+0.420469
+avg:1.415385 sd:0.494756
+0.752114
+avg:0.253846 sd:0.273820
+1.263515
+p = 0.131844
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.256471
+avg:2.657692 sd:0.771730
+0.325491
+avg:4.050000 sd:1.094435
+0.029753
+avg:1.250000 sd:0.482083
+0.174871
+p = 0.000434
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.168484
+avg:2.896154 sd:0.844062
+0.395513
+avg:5.326923 sd:1.371320
+0.007242
+avg:1.900000 sd:0.628184
+0.036703
+p = 0.000018
+
+Iris-setosa == Iris-setosa
+Test 13 End
+
+Test 14 Start
+Test Data: 5.200000 3.400000 1.400000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.316135
+avg:3.226923 sd:0.932604
+0.420469
+avg:1.415385 sd:0.494756
+0.805951
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.153096
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.271530
+avg:2.657692 sd:0.771730
+0.325491
+avg:4.050000 sd:1.094435
+0.019436
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000133
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.186597
+avg:2.896154 sd:0.844062
+0.395513
+avg:5.326923 sd:1.371320
+0.004821
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000006
+
+Iris-setosa == Iris-setosa
+Test 14 End
+
+Test 15 Start
+Test Data: 4.800000 3.100000 1.600000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.334823
+avg:3.226923 sd:0.932604
+0.423829
+avg:1.415385 sd:0.494756
+0.752114
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.152524
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.237306
+avg:2.657692 sd:0.771730
+0.438646
+avg:4.050000 sd:1.094435
+0.029753
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000239
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.149785
+avg:2.896154 sd:0.844062
+0.459061
+avg:5.326923 sd:1.371320
+0.007242
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000008
+
+Iris-setosa == Iris-setosa
+Test 15 End
+
+Test 16 Start
+Test Data: 5.200000 4.100000 1.500000 0.100000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.316135
+avg:3.226923 sd:0.932604
+0.275995
+avg:1.415385 sd:0.494756
+0.794634
+avg:0.253846 sd:0.273820
+1.244219
+p = 0.086266
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.271530
+avg:2.657692 sd:0.771730
+0.090152
+avg:4.050000 sd:1.094435
+0.024148
+avg:1.250000 sd:0.482083
+0.048096
+p = 0.000028
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.186597
+avg:2.896154 sd:0.844062
+0.170929
+avg:5.326923 sd:1.371320
+0.005924
+avg:1.900000 sd:0.628184
+0.010470
+p = 0.000002
+
+Iris-setosa == Iris-setosa
+Test 16 End
+
+Test 17 Start
+Test Data: 4.900000 3.100000 1.500000 0.100000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.333556
+avg:3.226923 sd:0.932604
+0.423829
+avg:1.415385 sd:0.494756
+0.794634
+avg:0.253846 sd:0.273820
+1.244219
+p = 0.139773
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.247339
+avg:2.657692 sd:0.771730
+0.438646
+avg:4.050000 sd:1.094435
+0.024148
+avg:1.250000 sd:0.482083
+0.048096
+p = 0.000126
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.159168
+avg:2.896154 sd:0.844062
+0.459061
+avg:5.326923 sd:1.371320
+0.005924
+avg:1.900000 sd:0.628184
+0.010470
+p = 0.000005
+
+Iris-setosa == Iris-setosa
+Test 17 End
+
+Test 18 Start
+Test Data: 5.500000 3.500000 1.300000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.281218
+avg:3.226923 sd:0.932604
+0.409822
+avg:1.415385 sd:0.494756
+0.784708
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.129239
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.284583
+avg:2.657692 sd:0.771730
+0.284947
+avg:4.050000 sd:1.094435
+0.015514
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000097
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.211242
+avg:2.896154 sd:0.844062
+0.365931
+avg:5.326923 sd:1.371320
+0.003902
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000005
+
+Iris-setosa == Iris-setosa
+Test 18 End
+
+Test 19 Start
+Test Data: 4.400000 3.000000 1.300000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.316820
+avg:3.226923 sd:0.932604
+0.415295
+avg:1.415385 sd:0.494756
+0.784708
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.147546
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.190989
+avg:2.657692 sd:0.771730
+0.468514
+avg:4.050000 sd:1.094435
+0.015514
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000107
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.112996
+avg:2.896154 sd:0.844062
+0.469082
+avg:5.326923 sd:1.371320
+0.003902
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000003
+
+Iris-setosa == Iris-setosa
+Test 19 End
+
+Test 20 Start
+Test Data: 5.000000 3.500000 1.300000 0.300000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.329961
+avg:3.226923 sd:0.932604
+0.409822
+avg:1.415385 sd:0.494756
+0.784708
+avg:0.253846 sd:0.273820
+1.436402
+p = 0.152420
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.256471
+avg:2.657692 sd:0.771730
+0.284947
+avg:4.050000 sd:1.094435
+0.015514
+avg:1.250000 sd:0.482083
+0.118723
+p = 0.000135
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.168484
+avg:2.896154 sd:0.844062
+0.365931
+avg:5.326923 sd:1.371320
+0.003902
+avg:1.900000 sd:0.628184
+0.024781
+p = 0.000006
+
+Iris-setosa == Iris-setosa
+Test 20 End
+
+Test 21 Start
+Test Data: 4.400000 3.200000 1.300000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.316820
+avg:3.226923 sd:0.932604
+0.427594
+avg:1.415385 sd:0.494756
+0.784708
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.151915
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.190989
+avg:2.657692 sd:0.771730
+0.403845
+avg:4.050000 sd:1.094435
+0.015514
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000092
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.112996
+avg:2.896154 sd:0.844062
+0.442993
+avg:5.326923 sd:1.371320
+0.003902
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000003
+
+Iris-setosa == Iris-setosa
+Test 21 End
+
+Test 22 Start
+Test Data: 5.100000 3.800000 1.900000 0.400000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.324113
+avg:3.226923 sd:0.932604
+0.354175
+avg:1.415385 sd:0.494756
+0.499093
+avg:0.253846 sd:0.273820
+1.263515
+p = 0.072390
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.264573
+avg:2.657692 sd:0.771730
+0.172855
+avg:4.050000 sd:1.094435
+0.052931
+avg:1.250000 sd:0.482083
+0.174871
+p = 0.000423
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.177654
+avg:2.896154 sd:0.844062
+0.266403
+avg:5.326923 sd:1.371320
+0.012814
+avg:1.900000 sd:0.628184
+0.036703
+p = 0.000022
+
+Iris-setosa == Iris-setosa
+Test 22 End
+
+Test 23 Start
+Test Data: 5.100000 3.800000 1.600000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.324113
+avg:3.226923 sd:0.932604
+0.354175
+avg:1.415385 sd:0.494756
+0.752114
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.123381
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.264573
+avg:2.657692 sd:0.771730
+0.172855
+avg:4.050000 sd:1.094435
+0.029753
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000105
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.177654
+avg:2.896154 sd:0.844062
+0.266403
+avg:5.326923 sd:1.371320
+0.007242
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000006
+
+Iris-setosa == Iris-setosa
+Test 23 End
+
+Test 24 Start
+Test Data: 5.300000 3.700000 1.500000 0.200000 Iris-setosa
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.306188
+avg:3.226923 sd:0.932604
+0.376129
+avg:1.415385 sd:0.494756
+0.794634
+avg:0.253846 sd:0.273820
+1.429052
+p = 0.130780
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.277237
+avg:2.657692 sd:0.771730
+0.207651
+avg:4.050000 sd:1.094435
+0.024148
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000107
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.195231
+avg:2.896154 sd:0.844062
+0.300322
+avg:5.326923 sd:1.371320
+0.005924
+avg:1.900000 sd:0.628184
+0.016313
+p = 0.000006
+
+Iris-setosa == Iris-setosa
+Test 24 End
+
+Test 25 Start
+Test Data: 7.000000 3.200000 4.700000 1.400000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.060522
+avg:3.226923 sd:0.932604
+0.427594
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000228
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.179541
+avg:2.657692 sd:0.771730
+0.403845
+avg:4.050000 sd:1.094435
+0.305580
+avg:1.250000 sd:0.482083
+0.788434
+p = 0.017469
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.232594
+avg:2.896154 sd:0.844062
+0.442993
+avg:5.326923 sd:1.371320
+0.262052
+avg:1.900000 sd:0.628184
+0.462652
+p = 0.012492
+
+Iris-versicolor == Iris-versicolor
+Test 25 End
+
+Test 26 Start
+Test Data: 6.900000 3.100000 4.900000 1.500000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.070437
+avg:3.226923 sd:0.932604
+0.423829
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000046
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.191938
+avg:2.657692 sd:0.771730
+0.438646
+avg:4.050000 sd:1.094435
+0.269611
+avg:1.250000 sd:0.482083
+0.723421
+p = 0.016421
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.237471
+avg:2.896154 sd:0.844062
+0.459061
+avg:5.326923 sd:1.371320
+0.277156
+avg:1.900000 sd:0.628184
+0.518536
+p = 0.015667
+
+Iris-versicolor == Iris-versicolor
+Test 26 End
+
+Test 27 Start
+Test Data: 6.500000 2.800000 4.600000 1.500000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.120439
+avg:3.226923 sd:0.932604
+0.385219
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000046
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.238107
+avg:2.657692 sd:0.771730
+0.508231
+avg:4.050000 sd:1.094435
+0.321277
+avg:1.250000 sd:0.482083
+0.723421
+p = 0.028126
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.248200
+avg:2.896154 sd:0.844062
+0.469589
+avg:5.326923 sd:1.371320
+0.252786
+avg:1.900000 sd:0.628184
+0.518536
+p = 0.015277
+
+Iris-versicolor == Iris-versicolor
+Test 27 End
+
+Test 28 Start
+Test Data: 6.300000 3.300000 4.700000 1.600000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.150972
+avg:3.226923 sd:0.932604
+0.426461
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000008
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.257132
+avg:2.657692 sd:0.771730
+0.365614
+avg:4.050000 sd:1.094435
+0.305580
+avg:1.250000 sd:0.482083
+0.635814
+p = 0.018266
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.247904
+avg:2.896154 sd:0.844062
+0.421528
+avg:5.326923 sd:1.371320
+0.262052
+avg:1.900000 sd:0.628184
+0.566628
+p = 0.015517
+
+Iris-versicolor == Iris-versicolor
+Test 28 End
+
+Test 29 Start
+Test Data: 6.600000 2.900000 4.600000 1.300000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.106443
+avg:3.226923 sd:0.932604
+0.402280
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000986
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.227366
+avg:2.657692 sd:0.771730
+0.492082
+avg:4.050000 sd:1.094435
+0.321277
+avg:1.250000 sd:0.482083
+0.823100
+p = 0.029587
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.246906
+avg:2.896154 sd:0.844062
+0.472641
+avg:5.326923 sd:1.371320
+0.252786
+avg:1.900000 sd:0.628184
+0.402461
+p = 0.011872
+
+Iris-versicolor == Iris-versicolor
+Test 29 End
+
+Test 30 Start
+Test Data: 5.000000 2.000000 3.500000 1.000000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.329961
+avg:3.226923 sd:0.932604
+0.180045
+avg:1.415385 sd:0.494756
+0.000113
+avg:0.253846 sd:0.273820
+0.035564
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.256471
+avg:2.657692 sd:0.771730
+0.359527
+avg:4.050000 sd:1.094435
+0.321277
+avg:1.250000 sd:0.482083
+0.723421
+p = 0.021431
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.168484
+avg:2.896154 sd:0.844062
+0.269004
+avg:5.326923 sd:1.371320
+0.119775
+avg:1.900000 sd:0.628184
+0.227562
+p = 0.001235
+
+Iris-versicolor == Iris-versicolor
+Test 30 End
+
+Test 31 Start
+Test Data: 6.000000 2.200000 4.000000 1.000000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.200977
+avg:3.226923 sd:0.932604
+0.233304
+avg:1.415385 sd:0.494756
+0.000001
+avg:0.253846 sd:0.273820
+0.035564
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.277622
+avg:2.657692 sd:0.771730
+0.433577
+avg:4.050000 sd:1.094435
+0.364139
+avg:1.250000 sd:0.482083
+0.723421
+p = 0.031709
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.240360
+avg:2.896154 sd:0.844062
+0.336375
+avg:5.326923 sd:1.371320
+0.182162
+avg:1.900000 sd:0.628184
+0.227562
+p = 0.003352
+
+Iris-versicolor == Iris-versicolor
+Test 31 End
+
+Test 32 Start
+Test Data: 5.600000 2.900000 3.600000 1.300000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.266675
+avg:3.226923 sd:0.932604
+0.402280
+avg:1.415385 sd:0.494756
+0.000047
+avg:0.253846 sd:0.273820
+0.000986
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.286109
+avg:2.657692 sd:0.771730
+0.492082
+avg:4.050000 sd:1.094435
+0.334972
+avg:1.250000 sd:0.482083
+0.823100
+p = 0.038818
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.218458
+avg:2.896154 sd:0.844062
+0.472641
+avg:5.326923 sd:1.371320
+0.131645
+avg:1.900000 sd:0.628184
+0.402461
+p = 0.005471
+
+Iris-versicolor == Iris-versicolor
+Test 32 End
+
+Test 33 Start
+Test Data: 5.600000 3.000000 4.500000 1.500000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.266675
+avg:3.226923 sd:0.932604
+0.415295
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000046
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.286109
+avg:2.657692 sd:0.771730
+0.468514
+avg:4.050000 sd:1.094435
+0.334972
+avg:1.250000 sd:0.482083
+0.723421
+p = 0.032483
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.218458
+avg:2.896154 sd:0.844062
+0.469082
+avg:5.326923 sd:1.371320
+0.242556
+avg:1.900000 sd:0.628184
+0.518536
+p = 0.012889
+
+Iris-versicolor == Iris-versicolor
+Test 33 End
+
+Test 34 Start
+Test Data: 6.200000 2.200000 4.500000 1.500000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.167252
+avg:3.226923 sd:0.932604
+0.233304
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000046
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.265150
+avg:2.657692 sd:0.771730
+0.433577
+avg:4.050000 sd:1.094435
+0.334972
+avg:1.250000 sd:0.482083
+0.723421
+p = 0.027859
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.246317
+avg:2.896154 sd:0.844062
+0.336375
+avg:5.326923 sd:1.371320
+0.242556
+avg:1.900000 sd:0.628184
+0.518536
+p = 0.010421
+
+Iris-versicolor == Iris-versicolor
+Test 34 End
+
+Test 35 Start
+Test Data: 5.900000 3.200000 4.800000 1.800000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.217993
+avg:3.226923 sd:0.932604
+0.427594
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.281889
+avg:2.657692 sd:0.771730
+0.403845
+avg:4.050000 sd:1.094435
+0.288233
+avg:1.250000 sd:0.482083
+0.431665
+p = 0.014164
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.236057
+avg:2.896154 sd:0.844062
+0.442993
+avg:5.326923 sd:1.371320
+0.270216
+avg:1.900000 sd:0.628184
+0.627076
+p = 0.017719
+
+Iris-versicolor == Iris-virginica
+Missing!!
+Test 35 End
+
+Test 36 Start
+Test Data: 6.300000 2.500000 4.900000 1.500000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.150972
+avg:3.226923 sd:0.932604
+0.315707
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000046
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.257132
+avg:2.657692 sd:0.771730
+0.506265
+avg:4.050000 sd:1.094435
+0.269611
+avg:1.250000 sd:0.482083
+0.723421
+p = 0.025390
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.247904
+avg:2.896154 sd:0.844062
+0.423353
+avg:5.326923 sd:1.371320
+0.277156
+avg:1.900000 sd:0.628184
+0.518536
+p = 0.015083
+
+Iris-versicolor == Iris-versicolor
+Test 36 End
+
+Test 37 Start
+Test Data: 6.400000 2.900000 4.300000 1.300000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.135320
+avg:3.226923 sd:0.932604
+0.402280
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000986
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.248075
+avg:2.657692 sd:0.771730
+0.492082
+avg:4.050000 sd:1.094435
+0.355132
+avg:1.250000 sd:0.482083
+0.823100
+p = 0.035683
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.248534
+avg:2.896154 sd:0.844062
+0.472641
+avg:5.326923 sd:1.371320
+0.219785
+avg:1.900000 sd:0.628184
+0.402461
+p = 0.010391
+
+Iris-versicolor == Iris-versicolor
+Test 37 End
+
+Test 38 Start
+Test Data: 6.800000 2.800000 4.800000 1.400000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.081402
+avg:3.226923 sd:0.932604
+0.385219
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000228
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.204136
+avg:2.657692 sd:0.771730
+0.508231
+avg:4.050000 sd:1.094435
+0.288233
+avg:1.250000 sd:0.482083
+0.788434
+p = 0.023577
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.241511
+avg:2.896154 sd:0.844062
+0.469589
+avg:5.326923 sd:1.371320
+0.270216
+avg:1.900000 sd:0.628184
+0.462652
+p = 0.014178
+
+Iris-versicolor == Iris-versicolor
+Test 38 End
+
+Test 39 Start
+Test Data: 6.000000 2.900000 4.500000 1.500000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.200977
+avg:3.226923 sd:0.932604
+0.402280
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000046
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.277622
+avg:2.657692 sd:0.771730
+0.492082
+avg:4.050000 sd:1.094435
+0.334972
+avg:1.250000 sd:0.482083
+0.723421
+p = 0.033105
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.240360
+avg:2.896154 sd:0.844062
+0.472641
+avg:5.326923 sd:1.371320
+0.242556
+avg:1.900000 sd:0.628184
+0.518536
+p = 0.014288
+
+Iris-versicolor == Iris-versicolor
+Test 39 End
+
+Test 40 Start
+Test Data: 5.500000 2.400000 3.800000 1.100000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.281218
+avg:3.226923 sd:0.932604
+0.288729
+avg:1.415385 sd:0.494756
+0.000007
+avg:0.253846 sd:0.273820
+0.012299
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.284583
+avg:2.657692 sd:0.771730
+0.488914
+avg:4.050000 sd:1.094435
+0.355132
+avg:1.250000 sd:0.482083
+0.788434
+p = 0.038958
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.211242
+avg:2.896154 sd:0.844062
+0.397654
+avg:5.326923 sd:1.371320
+0.156512
+avg:1.900000 sd:0.628184
+0.282258
+p = 0.003711
+
+Iris-versicolor == Iris-versicolor
+Test 40 End
+
+Test 41 Start
+Test Data: 5.800000 2.700000 3.900000 1.200000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.234791
+avg:3.226923 sd:0.932604
+0.364664
+avg:1.415385 sd:0.494756
+0.000003
+avg:0.253846 sd:0.273820
+0.003722
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.284752
+avg:2.657692 sd:0.771730
+0.516169
+avg:4.050000 sd:1.094435
+0.361111
+avg:1.250000 sd:0.482083
+0.823100
+p = 0.043687
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.230933
+avg:2.896154 sd:0.844062
+0.460054
+avg:5.326923 sd:1.371320
+0.169300
+avg:1.900000 sd:0.628184
+0.341341
+p = 0.006140
+
+Iris-versicolor == Iris-versicolor
+Test 41 End
+
+Test 42 Start
+Test Data: 5.400000 3.000000 4.500000 1.500000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.294473
+avg:3.226923 sd:0.932604
+0.415295
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000046
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.281610
+avg:2.657692 sd:0.771730
+0.468514
+avg:4.050000 sd:1.094435
+0.334972
+avg:1.250000 sd:0.482083
+0.723421
+p = 0.031972
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.203474
+avg:2.896154 sd:0.844062
+0.469082
+avg:5.326923 sd:1.371320
+0.242556
+avg:1.900000 sd:0.628184
+0.518536
+p = 0.012005
+
+Iris-versicolor == Iris-versicolor
+Test 42 End
+
+Test 43 Start
+Test Data: 6.700000 3.100000 4.700000 1.500000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.093412
+avg:3.226923 sd:0.932604
+0.423829
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000046
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.215993
+avg:2.657692 sd:0.771730
+0.438646
+avg:4.050000 sd:1.094435
+0.305580
+avg:1.250000 sd:0.482083
+0.723421
+p = 0.020945
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.244668
+avg:2.896154 sd:0.844062
+0.459061
+avg:5.326923 sd:1.371320
+0.262052
+avg:1.900000 sd:0.628184
+0.518536
+p = 0.015262
+
+Iris-versicolor == Iris-versicolor
+Test 43 End
+
+Test 44 Start
+Test Data: 5.600000 3.000000 4.100000 1.300000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.266675
+avg:3.226923 sd:0.932604
+0.415295
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000986
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.286109
+avg:2.657692 sd:0.771730
+0.468514
+avg:4.050000 sd:1.094435
+0.364139
+avg:1.250000 sd:0.482083
+0.823100
+p = 0.040177
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.218458
+avg:2.896154 sd:0.844062
+0.469082
+avg:5.326923 sd:1.371320
+0.194960
+avg:1.900000 sd:0.628184
+0.402461
+p = 0.008041
+
+Iris-versicolor == Iris-versicolor
+Test 44 End
+
+Test 45 Start
+Test Data: 5.500000 2.600000 4.400000 1.200000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.281218
+avg:3.226923 sd:0.932604
+0.341260
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.003722
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.284583
+avg:2.657692 sd:0.771730
+0.515503
+avg:4.050000 sd:1.094435
+0.346347
+avg:1.250000 sd:0.482083
+0.823100
+p = 0.041822
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.211242
+avg:2.896154 sd:0.844062
+0.444430
+avg:5.326923 sd:1.371320
+0.231504
+avg:1.900000 sd:0.628184
+0.341341
+p = 0.007419
+
+Iris-versicolor == Iris-versicolor
+Test 45 End
+
+Test 46 Start
+Test Data: 5.800000 2.600000 4.000000 1.200000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.234791
+avg:3.226923 sd:0.932604
+0.341260
+avg:1.415385 sd:0.494756
+0.000001
+avg:0.253846 sd:0.273820
+0.003722
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.284752
+avg:2.657692 sd:0.771730
+0.515503
+avg:4.050000 sd:1.094435
+0.364139
+avg:1.250000 sd:0.482083
+0.823100
+p = 0.043996
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.230933
+avg:2.896154 sd:0.844062
+0.444430
+avg:5.326923 sd:1.371320
+0.182162
+avg:1.900000 sd:0.628184
+0.341341
+p = 0.006382
+
+Iris-versicolor == Iris-versicolor
+Test 46 End
+
+Test 47 Start
+Test Data: 5.600000 2.700000 4.200000 1.300000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.266675
+avg:3.226923 sd:0.932604
+0.364664
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000986
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.286109
+avg:2.657692 sd:0.771730
+0.516169
+avg:4.050000 sd:1.094435
+0.361111
+avg:1.250000 sd:0.482083
+0.823100
+p = 0.043895
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.218458
+avg:2.896154 sd:0.844062
+0.460054
+avg:5.326923 sd:1.371320
+0.207552
+avg:1.900000 sd:0.628184
+0.402461
+p = 0.008395
+
+Iris-versicolor == Iris-versicolor
+Test 47 End
+
+Test 48 Start
+Test Data: 5.700000 2.900000 4.200000 1.300000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.251108
+avg:3.226923 sd:0.932604
+0.402280
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000986
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.286166
+avg:2.657692 sd:0.771730
+0.492082
+avg:4.050000 sd:1.094435
+0.361111
+avg:1.250000 sd:0.482083
+0.823100
+p = 0.041855
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.225046
+avg:2.896154 sd:0.844062
+0.472641
+avg:5.326923 sd:1.371320
+0.207552
+avg:1.900000 sd:0.628184
+0.402461
+p = 0.008885
+
+Iris-versicolor == Iris-versicolor
+Test 48 End
+
+Test 49 Start
+Test Data: 5.100000 2.500000 3.000000 1.100000 Iris-versicolor
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.324113
+avg:3.226923 sd:0.932604
+0.315707
+avg:1.415385 sd:0.494756
+0.004775
+avg:0.253846 sd:0.273820
+0.012299
+p = 0.000006
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.264573
+avg:2.657692 sd:0.771730
+0.506265
+avg:4.050000 sd:1.094435
+0.230063
+avg:1.250000 sd:0.482083
+0.788434
+p = 0.024296
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.177654
+avg:2.896154 sd:0.844062
+0.423353
+avg:5.326923 sd:1.371320
+0.068951
+avg:1.900000 sd:0.628184
+0.282258
+p = 0.001464
+
+Iris-versicolor == Iris-versicolor
+Test 49 End
+
+Test 50 Start
+Test Data: 6.300000 3.300000 6.000000 2.500000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.150972
+avg:3.226923 sd:0.932604
+0.426461
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.257132
+avg:2.657692 sd:0.771730
+0.365614
+avg:4.050000 sd:1.094435
+0.074536
+avg:1.250000 sd:0.482083
+0.028699
+p = 0.000201
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.247904
+avg:2.896154 sd:0.844062
+0.421528
+avg:5.326923 sd:1.371320
+0.257904
+avg:1.900000 sd:0.628184
+0.402461
+p = 0.010847
+
+Iris-virginica == Iris-virginica
+Test 50 End
+
+Test 51 Start
+Test Data: 7.100000 3.000000 5.900000 2.100000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.051638
+avg:3.226923 sd:0.932604
+0.415295
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.167083
+avg:2.657692 sd:0.771730
+0.468514
+avg:4.050000 sd:1.094435
+0.087348
+avg:1.250000 sd:0.482083
+0.174871
+p = 0.001196
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.226935
+avg:2.896154 sd:0.844062
+0.469082
+avg:5.326923 sd:1.371320
+0.266593
+avg:1.900000 sd:0.628184
+0.603687
+p = 0.017132
+
+Iris-virginica == Iris-virginica
+Test 51 End
+
+Test 52 Start
+Test Data: 6.500000 3.000000 5.800000 2.200000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.120439
+avg:3.226923 sd:0.932604
+0.415295
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.238107
+avg:2.657692 sd:0.771730
+0.468514
+avg:4.050000 sd:1.094435
+0.101512
+avg:1.250000 sd:0.482083
+0.118723
+p = 0.001344
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.248200
+avg:2.896154 sd:0.844062
+0.469082
+avg:5.326923 sd:1.371320
+0.274112
+avg:1.900000 sd:0.628184
+0.566628
+p = 0.018083
+
+Iris-virginica == Iris-virginica
+Test 52 End
+
+Test 53 Start
+Test Data: 4.900000 2.500000 4.500000 1.700000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.333556
+avg:3.226923 sd:0.932604
+0.315707
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000001
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.247339
+avg:2.657692 sd:0.771730
+0.506265
+avg:4.050000 sd:1.094435
+0.334972
+avg:1.250000 sd:0.482083
+0.535281
+p = 0.022452
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.159168
+avg:2.896154 sd:0.844062
+0.423353
+avg:5.326923 sd:1.371320
+0.242556
+avg:1.900000 sd:0.628184
+0.603687
+p = 0.009867
+
+Iris-virginica == Iris-versicolor
+Missing!!
+Test 53 End
+
+Test 54 Start
+Test Data: 6.700000 2.500000 5.800000 1.800000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.093412
+avg:3.226923 sd:0.932604
+0.315707
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.215993
+avg:2.657692 sd:0.771730
+0.506265
+avg:4.050000 sd:1.094435
+0.101512
+avg:1.250000 sd:0.482083
+0.431665
+p = 0.004792
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.244668
+avg:2.896154 sd:0.844062
+0.423353
+avg:5.326923 sd:1.371320
+0.274112
+avg:1.900000 sd:0.628184
+0.627076
+p = 0.017804
+
+Iris-virginica == Iris-virginica
+Test 54 End
+
+Test 55 Start
+Test Data: 6.500000 3.200000 5.100000 2.000000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.120439
+avg:3.226923 sd:0.932604
+0.427594
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.238107
+avg:2.657692 sd:0.771730
+0.403845
+avg:4.050000 sd:1.094435
+0.230063
+avg:1.250000 sd:0.482083
+0.246726
+p = 0.005458
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.248200
+avg:2.896154 sd:0.844062
+0.442993
+avg:5.326923 sd:1.371320
+0.286962
+avg:1.900000 sd:0.628184
+0.627076
+p = 0.019785
+
+Iris-virginica == Iris-virginica
+Test 55 End
+
+Test 56 Start
+Test Data: 6.800000 3.000000 5.500000 2.100000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.081402
+avg:3.226923 sd:0.932604
+0.415295
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.204136
+avg:2.657692 sd:0.771730
+0.468514
+avg:4.050000 sd:1.094435
+0.151551
+avg:1.250000 sd:0.482083
+0.174871
+p = 0.002535
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.241511
+avg:2.896154 sd:0.844062
+0.469082
+avg:5.326923 sd:1.371320
+0.288610
+avg:1.900000 sd:0.628184
+0.603687
+p = 0.019738
+
+Iris-virginica == Iris-virginica
+Test 56 End
+
+Test 57 Start
+Test Data: 5.800000 2.800000 5.100000 2.400000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.234791
+avg:3.226923 sd:0.932604
+0.385219
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.284752
+avg:2.657692 sd:0.771730
+0.508231
+avg:4.050000 sd:1.094435
+0.230063
+avg:1.250000 sd:0.482083
+0.048096
+p = 0.001601
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.230933
+avg:2.896154 sd:0.844062
+0.469589
+avg:5.326923 sd:1.371320
+0.286962
+avg:1.900000 sd:0.628184
+0.462652
+p = 0.014397
+
+Iris-virginica == Iris-virginica
+Test 57 End
+
+Test 58 Start
+Test Data: 6.500000 3.000000 5.500000 1.800000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.120439
+avg:3.226923 sd:0.932604
+0.415295
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.238107
+avg:2.657692 sd:0.771730
+0.468514
+avg:4.050000 sd:1.094435
+0.151551
+avg:1.250000 sd:0.482083
+0.431665
+p = 0.007298
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.248200
+avg:2.896154 sd:0.844062
+0.469082
+avg:5.326923 sd:1.371320
+0.288610
+avg:1.900000 sd:0.628184
+0.627076
+p = 0.021071
+
+Iris-virginica == Iris-virginica
+Test 58 End
+
+Test 59 Start
+Test Data: 7.700000 2.600000 6.900000 2.300000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.017180
+avg:3.226923 sd:0.932604
+0.341260
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.097400
+avg:2.657692 sd:0.771730
+0.515503
+avg:4.050000 sd:1.094435
+0.012280
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000048
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.180433
+avg:2.896154 sd:0.844062
+0.444430
+avg:5.326923 sd:1.371320
+0.150670
+avg:1.900000 sd:0.628184
+0.518536
+p = 0.006265
+
+Iris-virginica == Iris-virginica
+Test 59 End
+
+Test 60 Start
+Test Data: 6.900000 3.200000 5.700000 2.300000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.070437
+avg:3.226923 sd:0.932604
+0.427594
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.191938
+avg:2.657692 sd:0.771730
+0.403845
+avg:4.050000 sd:1.094435
+0.116992
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.000700
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.237471
+avg:2.896154 sd:0.844062
+0.442993
+avg:5.326923 sd:1.371320
+0.280349
+avg:1.900000 sd:0.628184
+0.518536
+p = 0.015293
+
+Iris-virginica == Iris-virginica
+Test 60 End
+
+Test 61 Start
+Test Data: 7.700000 2.800000 6.700000 2.000000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.017180
+avg:3.226923 sd:0.932604
+0.385219
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.097400
+avg:2.657692 sd:0.771730
+0.508231
+avg:4.050000 sd:1.094435
+0.019436
+avg:1.250000 sd:0.482083
+0.246726
+p = 0.000237
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.180433
+avg:2.896154 sd:0.844062
+0.469589
+avg:5.326923 sd:1.371320
+0.176225
+avg:1.900000 sd:0.628184
+0.627076
+p = 0.009363
+
+Iris-virginica == Iris-virginica
+Test 61 End
+
+Test 62 Start
+Test Data: 6.700000 3.300000 5.700000 2.100000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.093412
+avg:3.226923 sd:0.932604
+0.426461
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.215993
+avg:2.657692 sd:0.771730
+0.365614
+avg:4.050000 sd:1.094435
+0.116992
+avg:1.250000 sd:0.482083
+0.174871
+p = 0.001616
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.244668
+avg:2.896154 sd:0.844062
+0.421528
+avg:5.326923 sd:1.371320
+0.280349
+avg:1.900000 sd:0.628184
+0.603687
+p = 0.017455
+
+Iris-virginica == Iris-virginica
+Test 62 End
+
+Test 63 Start
+Test Data: 6.200000 2.800000 4.800000 1.800000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.167252
+avg:3.226923 sd:0.932604
+0.385219
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.265150
+avg:2.657692 sd:0.771730
+0.508231
+avg:4.050000 sd:1.094435
+0.288233
+avg:1.250000 sd:0.482083
+0.431665
+p = 0.016767
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.246317
+avg:2.896154 sd:0.844062
+0.469589
+avg:5.326923 sd:1.371320
+0.270216
+avg:1.900000 sd:0.628184
+0.627076
+p = 0.019599
+
+Iris-virginica == Iris-virginica
+Test 63 End
+
+Test 64 Start
+Test Data: 6.400000 2.800000 5.600000 2.100000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.135320
+avg:3.226923 sd:0.932604
+0.385219
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.248075
+avg:2.657692 sd:0.771730
+0.508231
+avg:4.050000 sd:1.094435
+0.133712
+avg:1.250000 sd:0.482083
+0.174871
+p = 0.002948
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.248534
+avg:2.896154 sd:0.844062
+0.469589
+avg:5.326923 sd:1.371320
+0.285207
+avg:1.900000 sd:0.628184
+0.603687
+p = 0.020094
+
+Iris-virginica == Iris-virginica
+Test 64 End
+
+Test 65 Start
+Test Data: 7.400000 2.800000 6.100000 1.900000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.030744
+avg:3.226923 sd:0.932604
+0.385219
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.130560
+avg:2.657692 sd:0.771730
+0.508231
+avg:4.050000 sd:1.094435
+0.063074
+avg:1.250000 sd:0.482083
+0.333445
+p = 0.001396
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.205918
+avg:2.896154 sd:0.844062
+0.469589
+avg:5.326923 sd:1.371320
+0.248176
+avg:1.900000 sd:0.628184
+0.635072
+p = 0.015240
+
+Iris-virginica == Iris-virginica
+Test 65 End
+
+Test 66 Start
+Test Data: 6.400000 2.800000 5.600000 2.200000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.135320
+avg:3.226923 sd:0.932604
+0.385219
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.248075
+avg:2.657692 sd:0.771730
+0.508231
+avg:4.050000 sd:1.094435
+0.133712
+avg:1.250000 sd:0.482083
+0.118723
+p = 0.002001
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.248534
+avg:2.896154 sd:0.844062
+0.469589
+avg:5.326923 sd:1.371320
+0.285207
+avg:1.900000 sd:0.628184
+0.566628
+p = 0.018861
+
+Iris-virginica == Iris-virginica
+Test 66 End
+
+Test 67 Start
+Test Data: 6.100000 2.600000 5.600000 1.400000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.183988
+avg:3.226923 sd:0.932604
+0.341260
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000228
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.272014
+avg:2.657692 sd:0.771730
+0.515503
+avg:4.050000 sd:1.094435
+0.133712
+avg:1.250000 sd:0.482083
+0.788434
+p = 0.014783
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.243793
+avg:2.896154 sd:0.844062
+0.444430
+avg:5.326923 sd:1.371320
+0.285207
+avg:1.900000 sd:0.628184
+0.462652
+p = 0.014297
+
+Iris-virginica == Iris-versicolor
+Missing!!
+Test 67 End
+
+Test 68 Start
+Test Data: 6.300000 3.400000 5.600000 2.400000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.150972
+avg:3.226923 sd:0.932604
+0.420469
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.257132
+avg:2.657692 sd:0.771730
+0.325491
+avg:4.050000 sd:1.094435
+0.133712
+avg:1.250000 sd:0.482083
+0.048096
+p = 0.000538
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.247904
+avg:2.896154 sd:0.844062
+0.395513
+avg:5.326923 sd:1.371320
+0.285207
+avg:1.900000 sd:0.628184
+0.462652
+p = 0.012938
+
+Iris-virginica == Iris-virginica
+Test 68 End
+
+Test 69 Start
+Test Data: 6.000000 3.000000 4.800000 1.800000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.200977
+avg:3.226923 sd:0.932604
+0.415295
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.277622
+avg:2.657692 sd:0.771730
+0.468514
+avg:4.050000 sd:1.094435
+0.288233
+avg:1.250000 sd:0.482083
+0.431665
+p = 0.016183
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.240360
+avg:2.896154 sd:0.844062
+0.469082
+avg:5.326923 sd:1.371320
+0.270216
+avg:1.900000 sd:0.628184
+0.627076
+p = 0.019105
+
+Iris-virginica == Iris-virginica
+Test 69 End
+
+Test 70 Start
+Test Data: 6.700000 3.100000 5.600000 2.400000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.093412
+avg:3.226923 sd:0.932604
+0.423829
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.215993
+avg:2.657692 sd:0.771730
+0.438646
+avg:4.050000 sd:1.094435
+0.133712
+avg:1.250000 sd:0.482083
+0.048096
+p = 0.000609
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.244668
+avg:2.896154 sd:0.844062
+0.459061
+avg:5.326923 sd:1.371320
+0.285207
+avg:1.900000 sd:0.628184
+0.462652
+p = 0.014820
+
+Iris-virginica == Iris-virginica
+Test 70 End
+
+Test 71 Start
+Test Data: 5.800000 2.700000 5.100000 1.900000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.234791
+avg:3.226923 sd:0.932604
+0.364664
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.284752
+avg:2.657692 sd:0.771730
+0.516169
+avg:4.050000 sd:1.094435
+0.230063
+avg:1.250000 sd:0.482083
+0.333445
+p = 0.011275
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.230933
+avg:2.896154 sd:0.844062
+0.460054
+avg:5.326923 sd:1.371320
+0.286962
+avg:1.900000 sd:0.628184
+0.635072
+p = 0.019362
+
+Iris-virginica == Iris-virginica
+Test 71 End
+
+Test 72 Start
+Test Data: 6.700000 3.300000 5.700000 2.500000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.093412
+avg:3.226923 sd:0.932604
+0.426461
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.215993
+avg:2.657692 sd:0.771730
+0.365614
+avg:4.050000 sd:1.094435
+0.116992
+avg:1.250000 sd:0.482083
+0.028699
+p = 0.000265
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.244668
+avg:2.896154 sd:0.844062
+0.421528
+avg:5.326923 sd:1.371320
+0.280349
+avg:1.900000 sd:0.628184
+0.402461
+p = 0.011637
+
+Iris-virginica == Iris-virginica
+Test 72 End
+
+Test 73 Start
+Test Data: 6.300000 2.500000 5.000000 1.900000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.150972
+avg:3.226923 sd:0.932604
+0.315707
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.257132
+avg:2.657692 sd:0.771730
+0.506265
+avg:4.050000 sd:1.094435
+0.250095
+avg:1.250000 sd:0.482083
+0.333445
+p = 0.010856
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.247904
+avg:2.896154 sd:0.844062
+0.423353
+avg:5.326923 sd:1.371320
+0.282768
+avg:1.900000 sd:0.628184
+0.635072
+p = 0.018847
+
+Iris-virginica == Iris-virginica
+Test 73 End
+
+Test 74 Start
+Test Data: 6.200000 3.400000 5.400000 2.300000 Iris-virginica
+
+group name: Iris-setosa
+avg:4.796154 sd:1.191495
+0.167252
+avg:3.226923 sd:0.932604
+0.420469
+avg:1.415385 sd:0.494756
+0.000000
+avg:0.253846 sd:0.273820
+0.000000
+p = 0.000000
+
+group name: Iris-versicolor
+avg:5.653846 sd:1.393330
+0.265150
+avg:2.657692 sd:0.771730
+0.325491
+avg:4.050000 sd:1.094435
+0.170341
+avg:1.250000 sd:0.482083
+0.077208
+p = 0.001135
+
+group name: Iris-virginica
+avg:6.415385 sd:1.605111
+0.246317
+avg:2.896154 sd:0.844062
+0.395513
+avg:5.326923 sd:1.371320
+0.290506
+avg:1.900000 sd:0.628184
+0.518536
+p = 0.014675
+
+Iris-virginica == Iris-virginica
+Test 74 End
+
+72 / 75 = 0.960000
